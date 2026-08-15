@@ -78,4 +78,4 @@ Tauri · Rust · React · Vite
 | | |
 | --- | --- |
 | Platform | macOS for now|
-| Version | 0.1.3 |
+| Version | 0.1.5 |
