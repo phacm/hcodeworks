@@ -77,13 +77,5 @@ Tauri · Rust · React · Vite
 
 | | |
 | --- | --- |
-| Reference platform | macOS |
-| Planned | Ubuntu |
+| Platform | macOS for now|
 | Version | 0.1.3 |
-| Download | Mac download host coming soon |
-
----
-
-## Download
-
-Download link coming soon.
