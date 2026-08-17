@@ -8,8 +8,6 @@ hcode is a local desktop IDE that lets a solo builder run multiple bounded agent
 roles with disciplined handoffs, spec freezes, and merge gates — keeping one
 human accountable while the supporting work stays legible and contained.
 
-Download:[http://hcode.works/(https://github.com/phacm/hcodeworks/releases/download/early_release_v.0.1.5/hcode_0.1.5_universal.dmg)
-
 ---
 
 ## Why it exists
